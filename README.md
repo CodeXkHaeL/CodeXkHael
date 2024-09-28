@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com](https://www.youtube.com/@CodeXkHaeL" target="_blank"><img  src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@CodeXkHaeL" target="_blank"><img  src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 
 ## Objective

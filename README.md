@@ -1,23 +1,24 @@
 # Hello, I'm CodeXkHaeL
-<a href="https://www.youtube.com/@CodeXkHaeL"><img  src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+## LINKS
+<a href="https://www.youtube.com/@CodeXkHaeL"><img  src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://productive-dirigible-90e.notion.site/SAMPLE-BASIC-NOTES-TUTORIAL-1339ba3a863147f99073296178622a74"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 
 
 ## Objective
 
-My journey in Information technology has led me to develop a passion for technology, and I am now eager to transition into this field, specifically aiming to grow more and make my self effective in this field.
+My journey in Information technology has led me to develop a passion for technology, and I am now eager to transition into the devops security field, specifically aiming to grow more and make my self effective in this field.
 
 ## Skills
 
 | Skill                                         
 |-----------------------------------------------|
 | Basic Networking           
-| Virtualization 
+| Virtualization/Container
 | Programming languange /Scripting         
 | OS Familiarity                    
 
 ## Tools
 
-### Virtualization
+### Virtualization/Container
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -43,4 +44,23 @@ My journey in Information technology has led me to develop a passion for technol
     <img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
+### CERTIFICATE
+<div>
+    <img src="https://img.shields.io/badge/-Google%20Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Play%20It%20Safe%3A%20Management%20Security%20Risk-FFB300?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tools%20of%20the%20Trade%3A%20Linux%20%26%20SQL-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Connect%20and%20Protect%3A%20Networks%20%26%20Network%20Security-34A853?style=for-the-badge&logo=network-wired&logoColor=white" />
+</div>
+
+
+
+
+
+
+
+### SAMPLE BASIC NOTES/TUTORIAL
+### Click NOTION logo for samples
+<div>
+    <a href="https://productive-dirigible-90e.notion.site/SAMPLE-BASIC-NOTES-TUTORIAL-1339ba3a863147f99073296178622a74"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+</div>
 
